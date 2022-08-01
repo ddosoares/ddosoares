@@ -9,4 +9,4 @@ ddosoares/ddosoares is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![image](https://user-images.githubusercontent.com/39420363/182205181-a5f28c21-d97d-4d14-bb9c-0ea2f3c154e4.png)
+
