@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on git community.
 - 📫 How to reach me just text me :)
 
-![giphy (3)](https://user-images.githubusercontent.com/39420363/184658415-36247682-81b9-4348-ad1e-adfc7d42cce6.gif)
-![Hi](https://user-images.githubusercontent.com/39420363/184657864-def88a2d-2afc-4a88-93f8-9999055f0ee7.gif)
+![giphy (3)](https://user-images.githubusercontent.com/39420363/184658415-36247682-81b9-4348-ad1e-adfc7d42cce6.gif)![Hi](https://user-images.githubusercontent.com/39420363/184657864-def88a2d-2afc-4a88-93f8-9999055f0ee7.gif)
 
 <!---
 ddosoares/ddosoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
