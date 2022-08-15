@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on git community.
 - 📫 How to reach me just text me :)
 
+Follow me ![Hi](https://user-images.githubusercontent.com/39420363/184657864-def88a2d-2afc-4a88-93f8-9999055f0ee7.gif)
+
 <!---
 ddosoares/ddosoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
