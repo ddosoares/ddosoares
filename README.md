@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on git community.
 - 📫 How to reach me? Just text me on ddosoares@gmail.com
 
-<h3 align="left">You can connet me:</h3>
+<h3 align="left">You can connect me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/daniel-dosoares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericlibardi" height="30" width="40" /></a>
 
