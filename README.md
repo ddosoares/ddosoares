@@ -1,3 +1,7 @@
+Hey there 👋 .... my name is Daniel Soares
+
+I believe life is so amazing
+
 - 👋 Hi, I’m Daniel Soares @ddosoares
 - 👀 I’m interested in techs, trips, musics, movies, workouts and foods.
 - 🌱 I’m currently learning Java & JS.
