@@ -6,7 +6,6 @@
 - 👀 I’m interested in techs, trips, musics, movies, workouts and foods.
 - 🌱 I’m currently learning Java & JS.
 - 💞️ I’m looking to collaborate on git community.
-- 😄 Check my CV
 - 📫 How to reach me? Just text me on ddosoares@gmail.com
 
 <h3 align="left">You can connet me:</h3>
