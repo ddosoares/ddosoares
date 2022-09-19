@@ -8,6 +8,9 @@ I believe life is so amazing
 - 💞️ I’m looking to collaborate on git community.
 - 📫 How to reach me just text me :) ddosoares@gmail.com
 
+Languages and Tools:
+
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
 
 <!---
 ddosoares/ddosoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
