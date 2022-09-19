@@ -2,7 +2,7 @@
 - 👀 I’m interested in techs, trips, musics, movies, workouts and foods.
 - 🌱 I’m currently learning Java & JS.
 - 💞️ I’m looking to collaborate on git community.
-- 📫 How to reach me just text me :)
+- 📫 How to reach me just text me :) ddosoares@gmail.com
 
 
 <!---
