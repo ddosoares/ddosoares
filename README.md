@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Daniel Soares @ddosoares
 - 👀 I’m interested in techs, trips, musics, movies, workouts and foods.
-- 🌱 I’m (constant) learning programming language (Java, JS, Python, SQL) & strong develop into Data Science.
+- 🌱 I’m (constant) learning programming language (JavaScript, Python, SQL) & strong develop into Data Science.
 - 💞️ I’m looking to collaborate on git community.
 - 📫 How to reach me? Just text me on ddosoares@gmail.com
 
