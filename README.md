@@ -6,6 +6,7 @@
 - 👀 I’m interested in techs, trips, musics, movies, workouts and foods.
 - 🌱 I’m (constant) learning programming language (JavaScript, Python, SQL) & strong develop into Data Science.
 - 💞️ I’m looking to collaborate on git community.
+- 🎓 I am pursuing a PhD in Applied Geosciences at the University of Brasília, and my research focuses on Artificial Intelligence and programming within a broader context.
 - 📫 How to reach me? Just text me on ddosoares@gmail.com
 
 <h3 align="left">You can connect me:</h3>
