@@ -70,6 +70,15 @@
 
 </p>
 
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" rel="noreferrer">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ddosoares&theme=github-compact&hide_border=true&radius=8"
+      alt="GitHub Activity Graph"
+    />
+  </a>
+</p>
+
 <!---
 ddosoares/ddosoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
