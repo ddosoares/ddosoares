@@ -43,16 +43,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </a>
 
+<!-- QGIS -->
+<a href="https://qgis.org" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="qgis" width="40" height="40"/>
+</a>
+
+<!-- Data Science -->
+<a href="https://en.wikipedia.org/wiki/Data_science" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-data-science-data-science-flat-flat-juicy-fish.png" alt="data-science" width="40" height="40"/>
+</a>
+
 <!-- GIS (badge customizado) -->
 <img src="https://img.shields.io/badge/GIS-Geospatial-green" alt="GIS" height="40"/>
 
 <!-- ArcGIS -->
 <img src="https://img.shields.io/badge/ArcGIS-Esri-blue" alt="ArcGIS" height="40"/>
-
-<!-- QGIS -->
-<a href="https://qgis.org" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="qgis" width="40" height="40"/>
-</a>
 
 <!-- GeoAI -->
 <img src="https://img.shields.io/badge/GeoAI-Spatial%20AI-purple" alt="GeoAI" height="40"/>
@@ -63,10 +68,6 @@
 <!-- Globo terrestre -->
 <img src="https://img.icons8.com/color/48/000000/globe--v1.png" alt="globe" width="40" height="40"/>
 
-<!-- Data Science -->
-<a href="https://en.wikipedia.org/wiki/Data_science" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-data-science-data-science-flat-flat-juicy-fish.png" alt="data-science" width="40" height="40"/>
-</a>
 
 </p>
 
