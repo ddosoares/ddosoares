@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Daniel Soares @ddosoares
 - 👀 I’m interested in techs, trips, musics, movies, workouts and foods.
-- 🌱 I’m (constant) learning programming language (JavaScript, Python, SQL) & strong develop into Data Science.
+- 🌱 I’m (constant) learning programming language (Java, Python, R, SQL) & strong develop into Data Science.
 - 💞️ I’m looking to collaborate on git community.
 - 🎓 I am pursuing a PhD in Applied Geosciences at the University of Brasília, and my research focuses on Artificial Intelligence and programming applied to LULC within a broader context.
 - 📫 How to reach me? Just text me on ddosoares@gmail.com
@@ -15,7 +15,58 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- Python -->
+  <a href="https://python.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>
+  </a>
+  
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  
+  <!-- R -->
+  <a href="https://r-project.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="r" width="40" height="40"/>
+  </a>
+  
+  <!-- SQL / Data Science generico -->
+  <a href="https://wikipedia.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="sql" width="40" height="40"/>
+  </a>
+  
+  <!-- PostgreSQL -->
+  <a href="https://postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/>
+  </a>
+
+  <!-- QGIS -->
+  <a href="https://qgis.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="qgis" width="40" height="40"/>
+  </a>
+
+  <!-- ArcGIS -->
+  <a href="https://esri.com" target="_blank" rel="noreferrer">
+    <img src="https://vectorlogo.zone" alt="arcgis" width="40" height="40"/>
+  </a>
+
+  <!-- GIS / MAPPING -->
+  <a href="https://wikipedia.org" target="_blank" rel="noreferrer">
+    <img src="https://icons8.com" alt="gis-mapping" width="40" height="40"/>
+  </a>
+
+  <!-- GeoAI / Data Science -->
+  <a href="https://wikipedia.org" target="_blank" rel="noreferrer">
+    <img src="https://icons8.com" alt="geoai-datascience" width="40" height="40"/>
+  </a>
+
+  <!-- GLOBO Terrestre -->
+  <a href="https://wikipedia.org" target="_blank" rel="noreferrer">
+    <img src="https://icons8.com" alt="globe" width="40" height="40"/>
+  </a>
+</p>
+
 
 <!---
 ddosoares/ddosoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
